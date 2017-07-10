@@ -1,9 +1,0 @@
-/ 
-/images/NASA-logosmall.gif 
-/images/KSC-logosmall.gif 
-/images/USA-logosmall.gif 
-/images/MOSAIC-logosmall.gif 
-/images/WORLD-logosmall.gif 
-/images/ksclogo-medium.gif 
-/images/launch-logo.gif 
-/ksc.html 
